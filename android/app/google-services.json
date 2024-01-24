@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "771149906080",
+    "project_id": "audio-app-bd660",
+    "storage_bucket": "audio-app-bd660.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771149906080:android:23519095b42c5bddef09c5",
+        "android_client_info": {
+          "package_name": "com.example.audio_music_player"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFB9xMtNDBJojeqSLi27xK3-eps8wIbso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
